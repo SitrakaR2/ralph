@@ -1,3 +1,29 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+</style>
+
 body{
     background: greenyellow;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background: rgb(red, rgb(128, 0, 0), blue);
+    padding: 20px;
+}
+
+header img{
+    width: 330px;
+    height: 330px;
+    border: 20px solid dimgray;
+    border-radius: 50px;
+}
+header h1{
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+    </style>
 }
